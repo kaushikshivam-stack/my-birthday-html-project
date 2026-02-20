@@ -12,7 +12,7 @@ This is my first HTML project where I created a simple birthday invitation webpa
 - Beginner-friendly structure
 
 ## 🌐 Live Demo
-👉 https://your-username.github.io/my-birthday-html-project/
+👉 https://kaushikshivam-stack.github.io/my-birthday-html-project/
 
 ## 🙌 What I Learned
 - Basic HTML structure
