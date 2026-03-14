@@ -19,4 +19,8 @@ This is my first HTML project where I created a simple birthday invitation webpa
 - Headings, lists, images, and links
 - How to deploy a website using GitHub Pages
 
+## 📸 Project Screenshot
+
+![Birthday Project](Screenshot1.png)
+
 ⭐ This project marks the beginning of my web development journey!
